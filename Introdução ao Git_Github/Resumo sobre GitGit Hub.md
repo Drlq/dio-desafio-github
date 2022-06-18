@@ -44,13 +44,9 @@ Embaralha suas informações de um jeito muito específico:
 
 ![image-20220617204150866](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20220617204150866.png)
 
-
-
 Identifica os arquivos de uma forma rápida e segura, ex:
 
 ![image-20220617204239747](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20220617204239747.png)
-
-
 
 ### Trabalhando com o Git:
 
@@ -58,13 +54,9 @@ Na área onde está o arquivo a ser trabalhado, com o botão direito do mouse ap
 
 ![image-20220617204736423](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20220617204736423.png)
 
-
-
 No botão direito superior da tela aperta e options e muda o tema do seu terminal para o de seua preferência e salva.
 
 ![image-20220617204605053](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20220617204605053.png)
-
-
 
 Quando estamos lidando com terminal colocamos sempre o nome do programa na frente. Estamos chamando pelo terminal o Git e o comando específico dele, como por exemplo:
 
@@ -100,9 +92,7 @@ depois, **git commit -m "commit inicial"**
 
 ## Trabalhando com o github 
 
- 
-
-Vamos criar uma conta e um repositório remoto e vamos apontar o nosso código na nossa máquina no nosso repositório local para um repositório remoto:
+ Vamos criar uma conta e um repositório remoto e vamos apontar o nosso código na nossa máquina no nosso repositório local para um repositório remoto:
 
 Criando conta: Sign up  e seguir os passos. É importante usar o mesmo email que foi configurado o git, mas se preciso for:
 
@@ -130,9 +120,7 @@ Pelas flechinas, pode-se navegar no histórico do terminal, assim voltando em **
 
 Se eu trouxer a configuração novamente: **git config --list** as alterações apareceram. De um **q** pra sair.
 
-
-
-Enviando um repositório pro github:
+### Enviando um repositório pro github:
 
 ![image-20220617195042464](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20220617195042464.png)
 

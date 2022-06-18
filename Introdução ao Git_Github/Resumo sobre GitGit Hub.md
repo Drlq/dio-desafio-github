@@ -132,11 +132,11 @@ Se eu trouxer a configuração novamente: **git config --list** as alterações 
 
 
 
-Enviando um repositório pro github
+Enviando um repositório pro github:
 
 ![image-20220617195042464](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20220617195042464.png)
 
-###### 
+ 
 
 ![image-20220617195216262](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20220617195216262.png)
 
